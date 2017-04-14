@@ -1,2 +1,2 @@
 # CacheRestSharp
-RestSharp width cache
+RestSharp with cache
